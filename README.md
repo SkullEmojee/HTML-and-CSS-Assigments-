@@ -7,3 +7,4 @@ Doing 1 chapter a day... thats about it. Its pretty simple so i shouldnt have an
 - [Chapter 1 Practice](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Assignment%20submission.html)
 - [Chapter 1 Topics as listed in my Assignments done in HTML](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Chapter%201%20topics.html)
 - [Chapter 2](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Assignment%202.html)
+- [Chapter 2 Topics as listed in my Assignments done in HTML](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Chapter%202%20topics.html)
