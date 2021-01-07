@@ -12,3 +12,4 @@ Doing 1 chapter a day... thats about it. Its pretty simple so i shouldnt have an
 - [Chapter 3  as listed in my Assignments done in HTML](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Chapter%203%20Practice.html)
 - [Chapter 4](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Chapter%204.html)
 - [Chapter 4 as listed in my Assignments done in HTML](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Practice%204.html)
+- [Chapter 5 Practice / as listed in Assignments](https://github.com/SkullEmojee/HTML-and-CSS-Assigments-/blob/main/Practice%205.html)
